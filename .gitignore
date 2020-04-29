@@ -9,6 +9,7 @@
 *.sql.gz
 *.tar.gz
 node_modules
+.vscode
 
 /webroot/*
 !/webroot/app
