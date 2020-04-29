@@ -13,6 +13,7 @@ node_modules
 /webroot/*
 !/webroot/app
 /webroot/app/*
+!/webroot/app/design
 !/webroot/app/etc
 /webroot/app/etc/*
 !/webroot/app/etc/config.php
