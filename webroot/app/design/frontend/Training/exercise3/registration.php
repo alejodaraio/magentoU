@@ -8,6 +8,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::THEME,
-    'frontend/Training/exercise2',
+    'frontend/Training/exercise3',
     __DIR__
 );
